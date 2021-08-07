@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/josephsanjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephsanjaya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11767813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11767813" height="30" width="40" /></a>
 <a href="https://medium.com/@sanjayajosep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjayajosep" height="30" width="40" /></a>
-<a href="https://discord.gg/Verfate#5143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Verfate#5143" height="30" width="40" /></a>
+<a href="https://discord.gg/#5143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Verfate#5143" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
