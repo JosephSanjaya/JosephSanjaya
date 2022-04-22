@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjayajosep" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayajosep?logo=twitter&style=for-the-badge" alt="sanjayajosep" /></a> </p>
 
-- 🔭 I’m currently working on **Finansialku**
+- 🔭 I’m currently working on **Ruangguru**
 
 - 🌱 I’m currently learning **Jetpack Compose and Compose Multiplatform**
 
