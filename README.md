@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android Development, Especially on Kotlin**
 
-- 📫 How to reach me **sanjayajoseph@altmails.com**
+- 📫 How to reach me **joseph.sanjaya@hash.fyi**
 
 - ⚡ Fun fact **An accomplishment I’m particularly proud of is being best graduate in my colleges.**
 
