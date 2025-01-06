@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joseph Sanjaya</h1>
 <h3 align="center">A passionate android developer from Bandung</h3>
 
+<a href="https://wakatime.com/@87ab3d97-da62-42c1-a7c3-b67310b1f1dd"><img src="https://wakatime.com/badge/user/87ab3d97-da62-42c1-a7c3-b67310b1f1dd.svg" alt="Total time coded since Jul 2 2022" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephsanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="josephsanjaya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephsanjaya" alt="josephsanjaya" /></a> </p>
 
 
