@@ -21,7 +21,6 @@ I'm a dedicated Android Engineer with a strong passion for building robust, mode
 🏆 I'm honored to be recognized as a **Top 10 Android Engineer Mentor on ADPList**! I'm committed to giving back to the community by mentoring fellow developers. Let's connect and grow together.
 
 🤝 **Want to chat about Android, career growth, or code?** Book a free 1-on-1 session with me!
-Book a free 1-on-1 session with me!
 
 <p align="center">
   <a href="https://adplist.org/mentors/joseph-sanjaya">
