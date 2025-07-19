@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Android Engineer from Bandung, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <em>"Crafting code with clarity and care — one Android screen at a time."</em>
+  <em>"Crafting code with clarity and care — one screen at a time."</em>
 </p>
 
 <p align="center">
