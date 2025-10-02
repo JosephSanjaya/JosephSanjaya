@@ -41,6 +41,8 @@ I'm a dedicated Android Engineer with a strong passion for building robust, mode
 </p>
 
 ---
+<a href="https://app.daily.dev/josephsanjaya"><img src="https://api.daily.dev/devcards/v2/KtR26XTDJpQADrhsAdzNx.png?r=yxw&type=wide" width="652" alt="Joseph Sanjaya's Dev Card"/></a>
+
 
 ### 🛠️ My Tech Stack
 
