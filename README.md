@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Joseph Sanjaya Logo" width="200" />
+</p>
+
 <h1 align="center">Hi there, I'm Joseph Sanjaya 👋</h1>
 <h3 align="center">A Passionate Android Engineer from Bandung, Indonesia 🇮🇩</h3>
 
